@@ -14,4 +14,4 @@ For your convenience and to demonstrate the functionality of the automated text 
 Special acknowledgments go to the faculty and researchers at Erasmus School of Economics for their valuable code contributions,which have influenced certain parts of the code implementation. In any reproducton of the code, mentioning the source is encouraged.
 
 
-Thank you for visiting my repository and showing interest in automation work. CreIf you have any questions or feedback, please don't hesitate to reach out.
+Thank you for visiting my repository and showing interest in automation work. If you have any questions or feedback, please don't hesitate to reach out.
