@@ -9,7 +9,7 @@ The code in this repository implements the following key features:
 3.	Sentiment Analysis with Tweets: The code makes use of collected (scraped) tweets to perform sentiment analysis on the text data, or the topics derived in Step 2. By determining the sentiment polarity of each text entry, we can gain valuable insights into customers' opinions and emotions.
 4.	Validity Measurement (Cohen's Kappa): To ensure the reliability of the topic modeling process, Cohen's Kappa statistic is employed to assess the agreement between different annotators. This provides a measure of the inter-annotator reliability for the topic labels.
 ## Example Dataset
-For your convenience and to demonstrate the functionality of the automated text analysis code, I have included an example dataset of interview text data about Web3 development in this repository (AI - generated). The dataset is not completely preprocessed and therefore can be used for the pre-processing section of the code.
+For your convenience and to demonstrate the functionality of the automated text analysis code, I have included examples dataset of interview text data about Web3 development in this repository (AI - generated), as well as tweets about Metaverse. The dataset is not completely preprocessed and therefore can be used for the pre-processing section of the code.
 ## Note of Reproduction
 Special acknowledgments go to the faculty and researchers at Erasmus School of Economics for their valuable code contributions,which have influenced certain parts of the code implementation. In any reproducton of the code, mentioning the source is encouraged.
 
