@@ -413,7 +413,7 @@ numeric_matrix <- data.matrix(topic_term_matrix[, -1])
 pca <- prcomp(numeric_matrix)
 
 # Determine the optimal number of components to retain
-scree_plot <- plot(pca, type = "l")
+fviz_screeplot(pca, ncp = 30, addlabels = FALSE, geom = "line")
 
 # Select the desired number of components
 num_components <- min(4, ncol(pca$x))
